@@ -63,8 +63,8 @@ notebook 里的代码以及 python 的 `.py` 文件受到 GPL v3 开源协议的
 [第十五章：架构细节](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/15_arch_details.ipynb) 
 
 [第十六章：优化器和回调函数](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/16_accel_sgd.ipynb) 
-
-[第十七章：基础知识](hhttps://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/17_foundations.ipynb) 
+ 
+[第十七章：基础知识](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/17_foundations.ipynb)
 
 [第十八章：GradCAM](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/18_CAM.ipynb) 
 
